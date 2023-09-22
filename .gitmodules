@@ -1,0 +1,3 @@
+[submodule "SP_PhoneBookApp"]
+	path = SP_PhoneBookApp
+	url = https://github.com/casmdz/SP_PhoneBookApp.git
